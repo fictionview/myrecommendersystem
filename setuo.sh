@@ -8,4 +8,3 @@ headless = true\n\
 \n\
 " > ~/.streamlit/config.toml
 
-export PATH=$PATH:`pwd`/heroku
